@@ -10,8 +10,8 @@
     "signature_type": 1
   },
   "trading": {
-    "eth_condition_id": "0xa642b67358897e7028a9ed9da04c57e7e6c84483efba8186bb012b29ec758385",
-    "btc_condition_id": "0x4e11455d949a8ee584874c36976baab455d9162734d9475606bc6e9afe6e929a",
+    "eth_condition_id": "0x89cd901df4876dcb96f557fe097fb45187e931cfb943cec7f2e9d4a31926b46f",
+    "btc_condition_id": "0xb5db208307a8b5a5ebff171788f09b05ab2c8b914fd0791fc5dad57b3f5f9c12",
     "check_interval_ms": 1000,
     "fixed_trade_amount": 1.0,
     "trigger_price": 0.99,
