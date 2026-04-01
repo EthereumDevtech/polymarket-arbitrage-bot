@@ -1,0 +1,21 @@
+{
+  "polymarket": {
+    "gamma_api_url": "https://gamma-api.polymarket.com",
+    "clob_api_url": "https://clob.polymarket.com",
+    "api_key": "9530de23-7a1c-4f10-6426-ed110915103e",
+    "api_secret": "HQq494hyhOP57vHViOr4DHFSNCdQYUOFg0ohfnQWU78",
+    "api_passphrase": "0bd9d915e6c69e1e4264b275c5f285f3970deadc814585446690c1fb1b7ff39a",
+    "private_key": "0xf13fbebd65ab23f37f17fa8829c330cd5d729b65d4b5e3461e7f2535600a4d65",
+    "proxy_wallet_address": "0xb6D01b23454AD02981bf1D25692278057166840b",
+    "signature_type": 1
+  },
+  "trading": {
+    "eth_condition_id": null,
+    "btc_condition_id": null,
+    "check_interval_ms": 1000,
+    "fixed_trade_amount": 1.0,
+    "trigger_price": 0.99,
+    "min_time_remaining_seconds": 90,
+    "market_closure_check_interval_seconds": 20
+  }
+}
