@@ -1,0 +1,100 @@
+0:45-1:00AM ET
+BTC UP ETH DOWN
+- 1$
+
+ETH Up Token BID:$0.01 ASK:$0.02 Down Token BID:$0.98 ASK:$0.99 remaining time:13s market_timestamp:1775105100
+BTC Up Token BID:$0.99 ASK:$1.00 Down Token BID:$0.00 ASK:$0.01 remaining time:13s market_timestamp:1775105100
+
+🎯 Trigger detected! ETH Down ASK price: $0.9900, D = 0.9800
+   Will buy ETH Up token (opposite of higher token)
+   Time remaining: 13s (no time constraint for this D range)
+💰 Buying token (opposite of higher ETH token)
+   BID Price (what we pay): $0.0100 | Investment: $1.00 | Units: 100.00
+   D = 0.9800 | Sell strategy: [1.0] at [0.03]
+   ✅ SIMULATION: Trade executed
+   📝 Storing trade: Token ID: 2103246873515672
+   ✅ Trade stored successfully. Will monitor token price for sell points.
+ETH Up Token BID:$0.01 ASK:$0.02 Down Token BID:$0.98 ASK:$0.99 remaining time:12s market_timestamp:1775105100
+BTC Up Token BID:$0.99 ASK:$1.00 Down Token BID:$0.00 ASK:$0.01 remaining time:12s market_timestamp:1775105100
+
+#########################################################################################
+
+1:00-1:15AM ET
+BTC UP ETH DOWN
++ 2$
+
+ETH Up Token BID:$0.01 ASK:$0.02 Down Token BID:$0.98 ASK:$0.99 remaining time:23s market_timestamp:1775106000
+BTC Up Token BID:$0.98 ASK:$0.99 Down Token BID:$0.01 ASK:$0.02 remaining time:23s market_timestamp:1775106000
+
+🎯 Trigger detected! ETH Down ASK price: $0.9900, D = 0.9700
+   Will buy ETH Up token (opposite of higher token)
+   Time remaining: 23s (no time constraint for this D range)
+💰 Buying token (opposite of higher ETH token)
+   BID Price (what we pay): $0.0100 | Investment: $1.00 | Units: 100.00
+   D = 0.9700 | Sell strategy: [1.0] at [0.03]
+   ✅ SIMULATION: Trade executed
+   📝 Storing trade: Token ID: 7992968736128197
+   ✅ Trade stored successfully. Will monitor token price for sell points.
+ETH Up Token BID:$0.01 ASK:$0.02 Down Token BID:$0.98 ASK:$0.99 remaining time:22s market_timestamp:1775106000
+BTC Up Token BID:$0.98 ASK:$0.99 Down Token BID:$0.01 ASK:$0.02 remaining time:22s market_timestamp:1775106000
+
+📈 Sell point reached! Token ASK price: $0.0300 >= $0.0300
+   Token ID: 7992968736128197 | Selling 100.00 units (100.0%) at ASK price $0.0300
+   💰 SIMULATION: Sold 100.00 units at $0.0300
+   📊 Profit: $2.0000 | Total Profit: $2.00
+ETH Up Token BID:$0.01 ASK:$0.02 Down Token BID:$0.98 ASK:$0.99 remaining time:21s market_timestamp:1775106000
+BTC Up Token BID:$0.98 ASK:$0.99 Down Token BID:$0.01 ASK:$0.02 remaining time:21s market_timestamp:1775106000
+
+
+#########################################################################################
+
+1:15-1:30AM ET
+BTC UP ETH UP
+- 1$
+
+ETH Up Token BID:$0.98 ASK:$0.99 Down Token BID:$0.01 ASK:$0.02 remaining time:1m 43s market_timestamp:1775106900
+BTC Up Token BID:$0.97 ASK:$0.98 Down Token BID:$0.02 ASK:$0.03 remaining time:1m 43s market_timestamp:1775106900
+
+🎯 Trigger detected! ETH Up ASK price: $0.9900, D = 0.0100
+   Will buy ETH Down token (opposite of higher token)
+   Time remaining: 103s (required: >90s)
+💰 Buying token (opposite of higher ETH token)
+   BID Price (what we pay): $0.0100 | Investment: $1.00 | Units: 100.00
+   D = 0.0100 | Sell strategy: [1.0] at [0.03]
+   ✅ SIMULATION: Trade executed
+   📝 Storing trade: Token ID: 6553953994471435
+   ✅ Trade stored successfully. Will monitor token price for sell points.
+ETH Up Token BID:$0.98 ASK:$0.99 Down Token BID:$0.01 ASK:$0.02 remaining time:1m 42s market_timestamp:1775106900
+BTC Up Token BID:$0.97 ASK:$0.98 Down Token BID:$0.02 ASK:$0.03 remaining time:1m 42s market_timestamp:1775106900
+
+#########################################################################################
+
+1:30-1:45AM ET
+BTC UP ETH UP
+
+NO TRADE
+
+#########################################################################################
+
+1:45-2:00AM ET
+BTC DOWN ETH UP
+
+-1$
+
+ETH Up Token BID:$0.98 ASK:$0.99 Down Token BID:$0.01 ASK:$0.02 remaining time:29s market_timestamp:1775108700
+BTC Up Token BID:$0.89 ASK:$0.90 Down Token BID:$0.10 ASK:$0.11 remaining time:29s market_timestamp:1775108700
+
+🎯 Trigger detected! ETH Up ASK price: $0.9900, D = 0.0900
+   Will buy ETH Down token (opposite of higher token)
+   Time remaining: 29s (no time constraint for this D range)
+💰 Buying token (opposite of higher ETH token)
+   BID Price (what we pay): $0.0100 | Investment: $1.00 | Units: 100.00
+   D = 0.0900 | Sell strategy: [0.5, 1.0] at [0.03, 0.05]
+   ✅ SIMULATION: Trade executed
+   📝 Storing trade: Token ID: 3053619940974791
+   ✅ Trade stored successfully. Will monitor token price for sell points.
+ETH Up Token BID:$0.98 ASK:$0.99 Down Token BID:$0.01 ASK:$0.02 remaining time:28s market_timestamp:1775108700
+BTC Up Token BID:$0.89 ASK:$0.91 Down Token BID:$0.09 ASK:$0.11 remaining time:28s market_timestamp:1775108700
+
+
+
